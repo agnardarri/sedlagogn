@@ -1,0 +1,90 @@
+- category: Fjármálafyrirtæki
+  subcategories:
+  - name: Tryggingafélög
+    url: /hagtolur/nanar/2025/03/17/Tryggingafelog/?stdID=14
+    last_update: '2025-03-17'
+    next_update: '2025-04-23'
+  - name: Efnahagur Seðlabanka Íslands
+    url: /hagtolur/nanar/2025/03/07/Efnahagur-Sedlabanka-Islands/?stdID=10
+    last_update: '2025-03-07'
+    next_update: '2025-04-07'
+  - name: Lífeyrissjóðir
+    url: /hagtolur/nanar/2025/03/06/Lifeyrissjodir/?stdID=11
+    last_update: '2025-03-06'
+    next_update: '2025-04-04'
+  - name: Önnur fjármálafyrirtæki
+    url: /hagtolur/nanar/2025/02/27/Onnur-fjarmalafyrirtaeki-/?stdID=12
+    last_update: '2025-02-27'
+    next_update: '2025-03-27'
+  - name: Lánasjóðir ríkisins
+    url: /hagtolur/nanar/2025/02/27/Lanasjodir-rikisins/?stdID=35
+    last_update: '2025-02-27'
+    next_update: '2025-03-27'
+  - name: Verðbréfa-, fjárfestingar- og fagfjárfestasjóðir
+    url: /hagtolur/nanar/2025/02/27/Ver/?stdID=13
+    last_update: '2025-02-27'
+    next_update: '2025-03-27'
+  - name: Bankakerfi
+    url: /hagtolur/nanar/2025/02/25/Bankakerfi/?stdID=9
+    last_update: '2025-02-25'
+    next_update: '2025-03-25'
+- category: Fjármálareikningar og markaðir
+  subcategories:
+  - name: Greiðslumiðlun
+    url: /hagtolur/nanar/2025/03/17/Greidslumidlun/?stdID=21
+    last_update: '2025-03-17'
+    next_update: '2025-04-16'
+  - name: Gjaldeyrismarkaður
+    url: /hagtolur/nanar/2025/03/07/Gjaldeyrismarkadur/?stdID=18
+    last_update: '2025-03-07'
+    next_update: '2025-04-08'
+  - name: Raungengi
+    url: /hagtolur/nanar/2025/03/07/Raungengi/?stdID=20
+    last_update: '2025-03-07'
+    next_update: '2025-04-08'
+  - name: Krónumarkaður
+    url: /hagtolur/nanar/2025/03/07/Kronumarkadur/?stdID=19
+    last_update: '2025-03-07'
+    next_update: '2025-04-08'
+  - name: Fjármálareikningar fjármálafyrirtækja
+    url: /hagtolur/nanar/2025/03/06/Fjarmalareikningar-fjarmalafyrirtaekja/?stdID=8
+    last_update: '2025-03-06'
+    next_update: '2025-06-06'
+  - name: Staða markaðsverðbréfa
+    url: /hagtolur/nanar/2025/02/28/Stada-markadsverdbrefa/?stdID=15
+    last_update: '2025-02-28'
+    next_update: '2025-03-31'
+  - name: Útboð verðbréfa
+    url: /hagtolur/nanar/2025/02/21/Utbod-verdbrefa/?stdID=16
+    last_update: '2025-02-21'
+    next_update: '2025-03-21'
+- category: Greiðslujöfnuður og erlend staða þjóðarbúsins
+  subcategories:
+  - name: Gjaldeyrisforði og tengdir liðir
+    url: /hagtolur/nanar/2025/03/14/Gjaldeyrisfordi-og-tengdir-lidir/?stdID=7
+    last_update: '2025-03-14'
+    next_update: '2025-04-15'
+  - name: Erlend staða Seðlabankans
+    url: /hagtolur/nanar/2025/03/10/-Erlend-stada-Sedlabankans/?stdID=3
+    last_update: '2025-03-10'
+    next_update: '2025-04-08'
+  - name: Erlendar skuldir
+    url: /hagtolur/nanar/2025/03/06/-Erlendar-skuldir/?stdID=4
+    last_update: '2025-03-06'
+    next_update: '2025-06-05'
+  - name: Erlend staða þjóðarbúsins
+    url: /hagtolur/nanar/2025/03/06/Erlend-stada-thjodarbusins/?stdID=2
+    last_update: '2025-03-06'
+    next_update: '2025-06-05'
+  - name: Greiðslujöfnuður við útlönd
+    url: /hagtolur/nanar/2025/03/06/Greidslujofnudur-vid-utlond/?stdID=1
+    last_update: '2025-03-06'
+    next_update: '2025-06-05'
+  - name: Verðbréfafjárfesting
+    url: /hagtolur/nanar/2025/02/28/Verdbrefafjarfesting/?stdID=6
+    last_update: '2025-02-28'
+    next_update: '2025-03-31'
+  - name: Bein fjárfesting
+    url: /hagtolur/nanar/2024/09/19/Bein-fjarfesting-/?stdID=5
+    last_update: '2025-09-19'
+    next_update: '2025-03-20'

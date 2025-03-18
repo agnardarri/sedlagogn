@@ -1,0 +1,44 @@
+metadata:
+  file: INN_ReikningarBankakerfis_012025.xlsx
+  sheet: Efnisyfirlit_Contents
+  dates:
+  - '2023-04-18'
+  - '2023-05-18'
+  - '2023-06-18'
+  - '2023-07-18'
+  - '2023-08-18'
+  - '2023-09-18'
+  - '2023-10-18'
+  - '2023-11-18'
+  - '2023-12-18'
+  - '2024-01-18'
+  - '2024-02-18'
+  - '2024-03-18'
+  - '2024-04-18'
+  - '2024-05-18'
+  - '2024-06-18'
+  - '2024-07-18'
+  - '2024-08-18'
+  - '2024-09-18'
+  - '2024-10-18'
+  - '2024-11-18'
+  - '2024-12-18'
+  - '2025-01-18'
+  - '2025-02-18'
+  - '2025-03-18'
+  extracted_at: '2025-03-18T14:54:05.505516'
+data:
+  assets:
+    name: EIGNIR / ASSETS
+    children:
+    - name: Örk / Sheet
+      is: Örk
+      en: Sheet
+      values: {}
+    - name: I
+      is: I
+      en: ''
+      values: {}
+  liabilities:
+    name: SKULDIR / LIABILITIES
+    children: []

@@ -1,0 +1,612 @@
+{
+  "metadata": {
+    "file": "INN_ReikningarBankakerfis_012025.xlsx",
+    "sheet": "I",
+    "schema_file": "test.json",
+    "description": "Mapping of banking system accounts hierarchy with paths",
+    "extracted_at": "2025-03-18T15:02:47.010844"
+  },
+  "file_info": {
+    "is": "Bankakerfi",
+    "en": "banking_system",
+    "data_type": "Reikningar bankakerfis",
+    "data_type_en": "banking_system_accounts"
+  },
+  "assets": {
+    "0": {
+      "id": "row_10",
+      "name": "EIGNIR / ASSETS:",
+      "is": "EIGNIR",
+      "en": "ASSETS:",
+      "path": [
+        0
+      ],
+      "level": 1,
+      "hierarchy_level": 1,
+      "index": 0,
+      "full_path": "EIGNIR / ASSETS:"
+    },
+    "0.0": {
+      "id": "row_11",
+      "name": "Innlendar eignir, alls / Domestic assets, total",
+      "is": "Innlendar eignir, alls",
+      "en": "Domestic assets, total",
+      "path": [
+        0,
+        0
+      ],
+      "level": 2,
+      "hierarchy_level": 2,
+      "index": 0,
+      "full_path": "EIGNIR / ASSETS: > Innlendar eignir, alls / Domestic assets, total"
+    },
+    "0.0.0": {
+      "id": "row_12",
+      "name": "Innlend útlán og markaðsverðbréf / Domestic lending and marketable securities",
+      "is": "Innlend útlán og markaðsverðbréf",
+      "en": "Domestic lending and marketable securities",
+      "path": [
+        0,
+        0,
+        0
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 0,
+      "full_path": "EIGNIR / ASSETS: > Innlendar eignir, alls / Domestic assets, total > Innlend útlán og markaðsverðbréf / Domestic lending and marketable securities"
+    },
+    "0.0.0.0": {
+      "id": "row_13",
+      "name": "Seðlabanki / Central Bank",
+      "is": "Seðlabanki",
+      "en": "Central Bank",
+      "path": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "level": 4,
+      "hierarchy_level": 4,
+      "index": 0,
+      "full_path": "EIGNIR / ASSETS: > Innlendar eignir, alls / Domestic assets, total > Innlend útlán og markaðsverðbréf / Domestic lending and marketable securities > Seðlabanki / Central Bank"
+    },
+    "0.0.0.0.0": {
+      "id": "row_14",
+      "name": "Ríkissjóður og ríkisstofnanir / Treasury and Government institutions",
+      "is": "Ríkissjóður og ríkisstofnanir",
+      "en": "Treasury and Government institutions",
+      "path": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "level": 5,
+      "hierarchy_level": 5,
+      "index": 0,
+      "full_path": "EIGNIR / ASSETS: > Innlendar eignir, alls / Domestic assets, total > Innlend útlán og markaðsverðbréf / Domestic lending and marketable securities > Seðlabanki / Central Bank > Ríkissjóður og ríkisstofnanir / Treasury and Government institutions"
+    },
+    "0.0.0.0.1": {
+      "id": "row_15",
+      "name": "Fjármálafyrirtæki, önnur en bankar / Non-bank financial institutions",
+      "is": "Fjármálafyrirtæki, önnur en bankar",
+      "en": "Non-bank financial institutions",
+      "path": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "level": 5,
+      "hierarchy_level": 5,
+      "index": 1,
+      "full_path": "EIGNIR / ASSETS: > Innlendar eignir, alls / Domestic assets, total > Innlend útlán og markaðsverðbréf / Domestic lending and marketable securities > Seðlabanki / Central Bank > Fjármálafyrirtæki, önnur en bankar / Non-bank financial institutions"
+    },
+    "0.0.0.1": {
+      "id": "row_16",
+      "name": "Innlánsstofnanir / Deposit taking corporations",
+      "is": "Innlánsstofnanir",
+      "en": "Deposit taking corporations",
+      "path": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "level": 4,
+      "hierarchy_level": 4,
+      "index": 1,
+      "full_path": "EIGNIR / ASSETS: > Innlendar eignir, alls / Domestic assets, total > Innlend útlán og markaðsverðbréf / Domestic lending and marketable securities > Innlánsstofnanir / Deposit taking corporations"
+    },
+    "0.0.0.1.0": {
+      "id": "row_17",
+      "name": "Hlutabréf / Equities",
+      "is": "Hlutabréf",
+      "en": "Equities",
+      "path": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "level": 5,
+      "hierarchy_level": 5,
+      "index": 0,
+      "full_path": "EIGNIR / ASSETS: > Innlendar eignir, alls / Domestic assets, total > Innlend útlán og markaðsverðbréf / Domestic lending and marketable securities > Innlánsstofnanir / Deposit taking corporations > Hlutabréf / Equities"
+    },
+    "0.0.0.1.1": {
+      "id": "row_18",
+      "name": "Markaðsskuldabréf / Marketable bonds",
+      "is": "Markaðsskuldabréf",
+      "en": "Marketable bonds",
+      "path": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "level": 5,
+      "hierarchy_level": 5,
+      "index": 1,
+      "full_path": "EIGNIR / ASSETS: > Innlendar eignir, alls / Domestic assets, total > Innlend útlán og markaðsverðbréf / Domestic lending and marketable securities > Innlánsstofnanir / Deposit taking corporations > Markaðsskuldabréf / Marketable bonds"
+    },
+    "0.0.0.1.2": {
+      "id": "row_19",
+      "name": "Útlán / Lending 3",
+      "is": "Útlán",
+      "en": "Lending 3",
+      "path": [
+        0,
+        0,
+        0,
+        1,
+        2
+      ],
+      "level": 5,
+      "hierarchy_level": 5,
+      "index": 2,
+      "full_path": "EIGNIR / ASSETS: > Innlendar eignir, alls / Domestic assets, total > Innlend útlán og markaðsverðbréf / Domestic lending and marketable securities > Innlánsstofnanir / Deposit taking corporations > Útlán / Lending 3"
+    },
+    "0.0.1": {
+      "id": "row_20",
+      "name": "Aðrar innlendar eignir / Other domestic assets",
+      "is": "Aðrar innlendar eignir",
+      "en": "Other domestic assets",
+      "path": [
+        0,
+        0,
+        1
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 1,
+      "full_path": "EIGNIR / ASSETS: > Innlendar eignir, alls / Domestic assets, total > Aðrar innlendar eignir / Other domestic assets"
+    },
+    "0.1": {
+      "id": "row_21",
+      "name": "Erlendar eignir, alls / Foreign assets, total 2",
+      "is": "Erlendar eignir, alls",
+      "en": "Foreign assets, total 2",
+      "path": [
+        0,
+        1
+      ],
+      "level": 2,
+      "hierarchy_level": 2,
+      "index": 1,
+      "full_path": "EIGNIR / ASSETS: > Erlendar eignir, alls / Foreign assets, total 2"
+    },
+    "0.1.0": {
+      "id": "row_22",
+      "name": "Erlend verðbréf Seðlabanka / Central Bank's foreign securities",
+      "is": "Erlend verðbréf Seðlabanka",
+      "en": "Central Bank's foreign securities",
+      "path": [
+        0,
+        1,
+        0
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 0,
+      "full_path": "EIGNIR / ASSETS: > Erlendar eignir, alls / Foreign assets, total 2 > Erlend verðbréf Seðlabanka / Central Bank's foreign securities"
+    },
+    "0.1.1": {
+      "id": "row_23",
+      "name": "Erlend útlán og markaðsverðbréf innlánsstofnana / Deposit taking corporations foreign lending and marketable securities",
+      "is": "Erlend útlán og markaðsverðbréf innlánsstofnana",
+      "en": "Deposit taking corporations foreign lending and marketable securities",
+      "path": [
+        0,
+        1,
+        1
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 1,
+      "full_path": "EIGNIR / ASSETS: > Erlendar eignir, alls / Foreign assets, total 2 > Erlend útlán og markaðsverðbréf innlánsstofnana / Deposit taking corporations foreign lending and marketable securities"
+    },
+    "0.1.1.0": {
+      "id": "row_24",
+      "name": "Hlutabréf / Equities",
+      "is": "Hlutabréf",
+      "en": "Equities",
+      "path": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "level": 4,
+      "hierarchy_level": 4,
+      "index": 0,
+      "full_path": "EIGNIR / ASSETS: > Erlendar eignir, alls / Foreign assets, total 2 > Erlend útlán og markaðsverðbréf innlánsstofnana / Deposit taking corporations foreign lending and marketable securities > Hlutabréf / Equities"
+    },
+    "0.1.1.1": {
+      "id": "row_25",
+      "name": "Markaðsskuldabréf / Marketable bonds",
+      "is": "Markaðsskuldabréf",
+      "en": "Marketable bonds",
+      "path": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "level": 4,
+      "hierarchy_level": 4,
+      "index": 1,
+      "full_path": "EIGNIR / ASSETS: > Erlendar eignir, alls / Foreign assets, total 2 > Erlend útlán og markaðsverðbréf innlánsstofnana / Deposit taking corporations foreign lending and marketable securities > Markaðsskuldabréf / Marketable bonds"
+    },
+    "0.1.1.2": {
+      "id": "row_26",
+      "name": "Útlán / Lending 3",
+      "is": "Útlán",
+      "en": "Lending 3",
+      "path": [
+        0,
+        1,
+        1,
+        2
+      ],
+      "level": 4,
+      "hierarchy_level": 4,
+      "index": 2,
+      "full_path": "EIGNIR / ASSETS: > Erlendar eignir, alls / Foreign assets, total 2 > Erlend útlán og markaðsverðbréf innlánsstofnana / Deposit taking corporations foreign lending and marketable securities > Útlán / Lending 3"
+    },
+    "0.1.2": {
+      "id": "row_27",
+      "name": "Aðrar erlendar eignir  / Other foreign assets",
+      "is": "Aðrar erlendar eignir ",
+      "en": "Other foreign assets",
+      "path": [
+        0,
+        1,
+        2
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 2,
+      "full_path": "EIGNIR / ASSETS: > Erlendar eignir, alls / Foreign assets, total 2 > Aðrar erlendar eignir  / Other foreign assets"
+    }
+  },
+  "liabilities": {
+    "0": {
+      "id": "row_29",
+      "name": "SKULDIR / LIABILITIES:",
+      "is": "SKULDIR",
+      "en": "LIABILITIES:",
+      "path": [
+        0
+      ],
+      "level": 1,
+      "hierarchy_level": 1,
+      "index": 0,
+      "full_path": "SKULDIR / LIABILITIES:"
+    },
+    "0.0": {
+      "id": "row_30",
+      "name": "Innlendar skuldir, alls / Domestic liabilities, total",
+      "is": "Innlendar skuldir, alls",
+      "en": "Domestic liabilities, total",
+      "path": [
+        0,
+        0
+      ],
+      "level": 2,
+      "hierarchy_level": 2,
+      "index": 0,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total"
+    },
+    "0.0.0": {
+      "id": "row_31",
+      "name": "Innlán innlendra aðila í innlánsstofnunum / Residents' deposits in deposit taking corporations",
+      "is": "Innlán innlendra aðila í innlánsstofnunum",
+      "en": "Residents' deposits in deposit taking corporations",
+      "path": [
+        0,
+        0,
+        0
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 0,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Innlán innlendra aðila í innlánsstofnunum / Residents' deposits in deposit taking corporations"
+    },
+    "0.0.1": {
+      "id": "row_32",
+      "name": "Seðlar og mynt í umferð / Notes and coin in circulation",
+      "is": "Seðlar og mynt í umferð",
+      "en": "Notes and coin in circulation",
+      "path": [
+        0,
+        0,
+        1
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 1,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Seðlar og mynt í umferð / Notes and coin in circulation"
+    },
+    "0.0.2": {
+      "id": "row_33",
+      "name": "Verðbréfaútgáfa innlánsstofnana / Deposit taking corporations bond issues",
+      "is": "Verðbréfaútgáfa innlánsstofnana",
+      "en": "Deposit taking corporations bond issues",
+      "path": [
+        0,
+        0,
+        2
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 2,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Verðbréfaútgáfa innlánsstofnana / Deposit taking corporations bond issues"
+    },
+    "0.0.3": {
+      "id": "row_34",
+      "name": "Aðrar skuldir / Other liabilities",
+      "is": "Aðrar skuldir",
+      "en": "Other liabilities",
+      "path": [
+        0,
+        0,
+        3
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 3,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Aðrar skuldir / Other liabilities"
+    },
+    "0.0.3.0": {
+      "id": "row_35",
+      "name": "Seðlabanki / Central Bank",
+      "is": "Seðlabanki",
+      "en": "Central Bank",
+      "path": [
+        0,
+        0,
+        3,
+        0
+      ],
+      "level": 4,
+      "hierarchy_level": 4,
+      "index": 0,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Aðrar skuldir / Other liabilities > Seðlabanki / Central Bank"
+    },
+    "0.0.3.0.0": {
+      "id": "row_36",
+      "name": "Eigið fé / Capital and reserves",
+      "is": "Eigið fé",
+      "en": "Capital and reserves",
+      "path": [
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      "level": 5,
+      "hierarchy_level": 5,
+      "index": 0,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Aðrar skuldir / Other liabilities > Seðlabanki / Central Bank > Eigið fé / Capital and reserves"
+    },
+    "0.0.3.0.1": {
+      "id": "row_37",
+      "name": "Ríkissjóður og ríkisstofnanir / Treasury and government institutions",
+      "is": "Ríkissjóður og ríkisstofnanir",
+      "en": "Treasury and government institutions",
+      "path": [
+        0,
+        0,
+        3,
+        0,
+        1
+      ],
+      "level": 5,
+      "hierarchy_level": 5,
+      "index": 1,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Aðrar skuldir / Other liabilities > Seðlabanki / Central Bank > Ríkissjóður og ríkisstofnanir / Treasury and government institutions"
+    },
+    "0.0.3.0.2": {
+      "id": "row_38",
+      "name": "Aðrar skuldir ót.a.st. / Other liabilities",
+      "is": "Aðrar skuldir ót.a.st.",
+      "en": "Other liabilities",
+      "path": [
+        0,
+        0,
+        3,
+        0,
+        2
+      ],
+      "level": 5,
+      "hierarchy_level": 5,
+      "index": 2,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Aðrar skuldir / Other liabilities > Seðlabanki / Central Bank > Aðrar skuldir ót.a.st. / Other liabilities"
+    },
+    "0.0.3.1": {
+      "id": "row_39",
+      "name": "Innlánsstofnanir / Deposit taking corporations",
+      "is": "Innlánsstofnanir",
+      "en": "Deposit taking corporations",
+      "path": [
+        0,
+        0,
+        3,
+        1
+      ],
+      "level": 4,
+      "hierarchy_level": 4,
+      "index": 1,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Aðrar skuldir / Other liabilities > Innlánsstofnanir / Deposit taking corporations"
+    },
+    "0.0.3.1.0": {
+      "id": "row_40",
+      "name": "Eigið fé  / Total equity and minority interest",
+      "is": "Eigið fé ",
+      "en": "Total equity and minority interest",
+      "path": [
+        0,
+        0,
+        3,
+        1,
+        0
+      ],
+      "level": 5,
+      "hierarchy_level": 5,
+      "index": 0,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Aðrar skuldir / Other liabilities > Innlánsstofnanir / Deposit taking corporations > Eigið fé  / Total equity and minority interest"
+    },
+    "0.0.3.1.1": {
+      "id": "row_41",
+      "name": "Innlendar beinar lántökur / Domestic direct borrowing",
+      "is": "Innlendar beinar lántökur",
+      "en": "Domestic direct borrowing",
+      "path": [
+        0,
+        0,
+        3,
+        1,
+        1
+      ],
+      "level": 5,
+      "hierarchy_level": 5,
+      "index": 1,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Aðrar skuldir / Other liabilities > Innlánsstofnanir / Deposit taking corporations > Innlendar beinar lántökur / Domestic direct borrowing"
+    },
+    "0.0.3.1.2": {
+      "id": "row_42",
+      "name": "Aðrar skuldir ót.a.st. / Other liabilities",
+      "is": "Aðrar skuldir ót.a.st.",
+      "en": "Other liabilities",
+      "path": [
+        0,
+        0,
+        3,
+        1,
+        2
+      ],
+      "level": 5,
+      "hierarchy_level": 5,
+      "index": 2,
+      "full_path": "SKULDIR / LIABILITIES: > Innlendar skuldir, alls / Domestic liabilities, total > Aðrar skuldir / Other liabilities > Innlánsstofnanir / Deposit taking corporations > Aðrar skuldir ót.a.st. / Other liabilities"
+    },
+    "0.1": {
+      "id": "row_43",
+      "name": "Erlendar skuldir, alls / Foreign liabilities, total 2",
+      "is": "Erlendar skuldir, alls",
+      "en": "Foreign liabilities, total 2",
+      "path": [
+        0,
+        1
+      ],
+      "level": 2,
+      "hierarchy_level": 2,
+      "index": 1,
+      "full_path": "SKULDIR / LIABILITIES: > Erlendar skuldir, alls / Foreign liabilities, total 2"
+    },
+    "0.1.0": {
+      "id": "row_44",
+      "name": "Innlán erlendra aðila í innlánsstofnunum / Non-residents' deposits in deposit taking corporations",
+      "is": "Innlán erlendra aðila í innlánsstofnunum",
+      "en": "Non-residents' deposits in deposit taking corporations",
+      "path": [
+        0,
+        1,
+        0
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 0,
+      "full_path": "SKULDIR / LIABILITIES: > Erlendar skuldir, alls / Foreign liabilities, total 2 > Innlán erlendra aðila í innlánsstofnunum / Non-residents' deposits in deposit taking corporations"
+    },
+    "0.1.1": {
+      "id": "row_45",
+      "name": "Erlend verðbréfaútgáfa innlánsstofnana / Deposit taking corporations foreign bond issues",
+      "is": "Erlend verðbréfaútgáfa innlánsstofnana",
+      "en": "Deposit taking corporations foreign bond issues",
+      "path": [
+        0,
+        1,
+        1
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 1,
+      "full_path": "SKULDIR / LIABILITIES: > Erlendar skuldir, alls / Foreign liabilities, total 2 > Erlend verðbréfaútgáfa innlánsstofnana / Deposit taking corporations foreign bond issues"
+    },
+    "0.1.2": {
+      "id": "row_46",
+      "name": "Aðrar skuldir / Other liabilities",
+      "is": "Aðrar skuldir",
+      "en": "Other liabilities",
+      "path": [
+        0,
+        1,
+        2
+      ],
+      "level": 3,
+      "hierarchy_level": 3,
+      "index": 2,
+      "full_path": "SKULDIR / LIABILITIES: > Erlendar skuldir, alls / Foreign liabilities, total 2 > Aðrar skuldir / Other liabilities"
+    },
+    "0.1.2.0": {
+      "id": "row_47",
+      "name": "Seðlabanki / Central Bank",
+      "is": "Seðlabanki",
+      "en": "Central Bank",
+      "path": [
+        0,
+        1,
+        2,
+        0
+      ],
+      "level": 4,
+      "hierarchy_level": 4,
+      "index": 0,
+      "full_path": "SKULDIR / LIABILITIES: > Erlendar skuldir, alls / Foreign liabilities, total 2 > Aðrar skuldir / Other liabilities > Seðlabanki / Central Bank"
+    },
+    "0.1.2.1": {
+      "id": "row_48",
+      "name": "Innlánsstofnanir / DMBs",
+      "is": "Innlánsstofnanir",
+      "en": "DMBs",
+      "path": [
+        0,
+        1,
+        2,
+        1
+      ],
+      "level": 4,
+      "hierarchy_level": 4,
+      "index": 1,
+      "full_path": "SKULDIR / LIABILITIES: > Erlendar skuldir, alls / Foreign liabilities, total 2 > Aðrar skuldir / Other liabilities > Innlánsstofnanir / DMBs"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+    "FORDI": {
+        "is": "Gjaldeyrisforði og tengdir liðir",
+        "en": "foreign_exchange_reserves_and_related_items",
+        "data": {
+            "gjaldeyrisfordi": {
+                "is": "Gjaldeyrisforði",
+                "en": "foreign_exchange_reserves",
+                "config": {}
+            },
+            "fastar_nettoutgreidslur": {
+                "is": "Fastar nettóútgreiðslur gjaldeyriseigna",
+                "en": "fixed_net_payments_of_foreign_exchange_assets",
+                "config": {}
+            },
+            "mogulegar_nettoutgreidslur": {
+                "is": "Mögulegar nettóútgreiðslur",
+                "en": "potential_net_payments",
+                "config": {}
+            },
+            "vidbotarupplysingar": {
+                "is": "Viðbótarupplýsingar",
+                "en": "additional_information",
+                "config": {}
+            }
+        }
+    },
+    "central_bank_foreign_position": {
+        "is": "Erlend staða Seðlabankans",
+        "en": "foreign_position_of_central_bank",
+        "data": {
+            "stada": {
+                "is": "Staða",
+                "en": "position",
+                "config": {}
+            }
+        }
+    },
+    "foreign_debt": {
+        "is": "Erlendar skuldir",
+        "en": "foreign_debt",
+        "data": {
+            "skuldir": {
+                "is": "Skuldir",
+                "en": "debts",
+                "config": {}
+            }
+        }
+    },
+    "international_investment": {
+        "is": "Erlend staða þjóðarbúsins",
+        "en": "international_investment_position",
+        "data": {
+            "stada": {
+                "is": "Staða",
+                "en": "position",
+                "config": {}
+            }
+        }
+    },
+    "balance_of_payments": {
+        "is": "Greiðslujöfnuður við útlönd",
+        "en": "balance_of_payments",
+        "data": {
+            "jofnudur": {
+                "is": "Greiðslujöfnuður",
+                "en": "balance_of_payments",
+                "config": {}
+            }
+        }
+    },
+    "securities_investment": {
+        "is": "Verðbréfafjárfesting",
+        "en": "securities_investment",
+        "data": {
+            "fjarfesting": {
+                "is": "Fjárfesting",
+                "en": "investment",
+                "config": {}
+            }
+        }
+    },
+    "direct_investment": {
+        "is": "Bein fjárfesting",
+        "en": "direct_investment",
+        "data": {
+            "erlend": {
+                "is": "Bein erlend fjárfesting",
+                "en": "direct_foreign_investment",
+                "config": {}
+            }
+        }
+    }
+} 

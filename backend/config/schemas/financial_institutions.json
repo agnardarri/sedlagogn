@@ -1,0 +1,251 @@
+{
+    "TRY": {
+        "is": "Tryggingafélög",
+        "en": "insurance_companies",
+        "data": {
+            "timaradir": {
+                "is": "Tímaraðir",
+                "en": "time_series",
+                "config": {}
+            },
+            "markadsskuldabref_e_geirum": {
+                "is": "Markaðsskuldabréf eftir geirum",
+                "en": "market_bonds_by_sector",
+                "config": {}
+            },
+            "markadsskuldabref_e_tegund": {
+                "is": "Markaðsskuldabréf eftir tegund",
+                "en": "market_bonds_by_type",
+                "config": {}
+            },
+            "utlan_e_geirum": {
+                "is": "Útlán eftir geirum",
+                "en": "loans_by_sector",
+                "config": {}
+            },
+            "utlan_e_tegund": {
+                "is": "Útlán eftir tegund",
+                "en": "loans_by_type",
+                "config": {}
+            },
+            "hlutabref_e_geirum": {
+                "is": "Hlutabréf eftir geirum",
+                "en": "stocks_by_sector",
+                "config": {}
+            }
+        }
+    },
+    "SED": {
+        "is": "Efnahagur Seðlabanka Íslands",
+        "en": "central_bank_balance_sheet",
+        "data": {
+            "efnahagur": {
+                "is": "Efnahagur",
+                "en": "balance_sheet",
+                "config": {}
+            }
+        }
+    },
+    "LIF": {
+        "is": "Lífeyrissjóðir",
+        "en": "pension_funds",
+        "data": {
+            "timaradir": {
+                "is": "Tímaraðir",
+                "en": "time_series",
+                "config": {}
+            },
+            "ny_utlan": {
+                "is": "Ný útlán",
+                "en": "new_loans",
+                "config": {}
+            },
+            "utlan_e_geirum": {
+                "is": "Útlán eftir geirum",
+                "en": "loans_by_sector",
+                "config": {}
+            },
+            "utlan_e_tegund": {
+                "is": "Útlán eftir tegund",
+                "en": "loans_by_type",
+                "config": {}
+            },
+            "markadsskuldabref_e_geirum": {
+                "is": "Markaðsskuldabréf eftir geirum",
+                "en": "market_bonds_by_sector",
+                "config": {}
+            },
+            "markadsskuldabref_e_tegund": {
+                "is": "Markaðsskuldabréf eftir tegund",
+                "en": "market_bonds_by_type",
+                "config": {}
+            },
+            "hlutabref_e_geirum": {
+                "is": "Hlutabréf eftir geirum",
+                "en": "stocks_by_sector",
+                "config": {}
+            }
+        }
+    },
+    "YFT": {
+        "is": "Önnur fjármálafyrirtæki",
+        "en": "other_financial_institutions",
+        "data": {
+            "timaradir": {
+                "is": "Tímaraðir",
+                "en": "time_series",
+                "config": {}
+            },
+            "markadsskuldabref_e_geirum": {
+                "is": "Markaðsskuldabréf eftir geirum",
+                "en": "market_bonds_by_sector",
+                "config": {}
+            },
+            "markadsskuldabref_e_tegund": {
+                "is": "Markaðsskuldabréf eftir tegund",
+                "en": "market_bonds_by_type",
+                "config": {}
+            },
+            "utlan_e_geirum": {
+                "is": "Útlán eftir geirum",
+                "en": "loans_by_sector",
+                "config": {}
+            },
+            "utlan_e_tegund": {
+                "is": "Útlán eftir tegund",
+                "en": "loans_by_type",
+                "config": {}
+            },
+            "hlutabref_e_geirum": {
+                "is": "Hlutabréf eftir geirum",
+                "en": "stocks_by_sector",
+                "config": {}
+            }
+        }
+    },
+    "LSJ": {
+        "is": "Lánasjóðir ríkisins",
+        "en": "government_credit_funds",
+        "data": {
+            "timaradir": {
+                "is": "Tímaraðir",
+                "en": "time_series",
+                "config": {}
+            },
+            "markadsskuldabref_e_geirum": {
+                "is": "Markaðsskuldabréf eftir geirum",
+                "en": "market_bonds_by_sector",
+                "config": {}
+            },
+            "markadsskuldabref_e_tegund": {
+                "is": "Markaðsskuldabréf eftir tegund",
+                "en": "market_bonds_by_type",
+                "config": {}
+            },
+            "utlan_e_geirum": {
+                "is": "Útlán eftir geirum",
+                "en": "loans_by_sector",
+                "config": {}
+            },
+            "utlan_e_tegund": {
+                "is": "Útlán eftir tegund",
+                "en": "loans_by_type",
+                "config": {}
+            },
+            "hlutabref_e_geirum": {
+                "is": "Hlutabréf eftir geirum",
+                "en": "stocks_by_sector",
+                "config": {}
+            }
+        }
+    },
+    "VFF": {
+        "is": "Verðbréfa-, fjárfestingar- og fagfjárfestasjóðir",
+        "en": "securities_investment_and_professional_investment_funds",
+        "data": {
+            "efnahagur": {
+                "is": "Efnahagur",
+                "en": "balance_sheet",
+                "config": {}
+            }
+        }
+    },
+    "INN": {
+        "is": "Bankakerfi",
+        "en": "banking_system",
+        "data": {
+            "reikningar_bankakerfis": {
+                "is": "Reikningar bankakerfis",
+                "en": "banking_system_accounts",
+                "config": {
+                    "sheets": [
+                        {
+                            "sheet": "I",
+                            "date_row": 9,
+                            "data_start_column": 2,
+                            "data_name_column": 1,
+                            "assets_row": 10,
+                            "liabilities_row": 29,
+                            "assets_hierarchy": [
+                                1, 2, 3, 4, 5, 5, 4, 5, 5, 5, 3, 2, 3, 3, 4, 4, 4, 3
+                            ],
+                            "liabilities_hierarchy": [
+                                1, 2, 3, 3, 3, 3, 4, 5, 5, 5, 4, 5, 5, 5, 2, 3, 3, 3, 4, 4
+                            ]
+                        }
+                    ]
+                }
+            },
+            "efnahagur_SI": {
+                "is": "Efnahagur Seðlabanka Íslands",
+                "en": "central_bank_balance_sheet",
+                "config": {}
+            },
+            "efnahagur_DMB": {
+                "is": "Efnahagur innlánsstofnana",
+                "en": "balance_sheet_deposit_institutions",
+                "config": {}
+            },
+            "peningamagn": {
+                "is": "Peningamagn",
+                "en": "money_supply",
+                "config": {}
+            },
+            "ny_utlan": {
+                "is": "Ný útlán",
+                "en": "new_loans",
+                "config": {}
+            },
+            "utlan": {
+                "is": "Útlán",
+                "en": "loans",
+                "config": {}
+            },
+            "innlan": {
+                "is": "Innlán",
+                "en": "deposits",
+                "config": {}
+            },
+            "hlutabref": {
+                "is": "Hlutabréf",
+                "en": "stocks",
+                "config": {}
+            },
+            "markadsskuldabref": {
+                "is": "Markaðsskuldabréf",
+                "en": "market_bonds",
+                "config": {}
+            },
+            "lantokur": {
+                "is": "Lántökur",
+                "en": "borrowings",
+                "config": {}
+            },
+            "afleidur": {
+                "is": "Afleiður",
+                "en": "derivatives",
+                "config": {}
+            }
+        }
+    }
+} 

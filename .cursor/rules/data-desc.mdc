@@ -1,0 +1,19 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Description of Excel data
+
+- Assets/liabilities for various sectors and subsectors in the Icelandic economy
+- Time series going back several years
+- Hierarchically presented: Lines below often children of the row above. Represented by indentation
+- Data often in one particular sheet
+- Sheet often begins with several lines of metadata
+
+# Strategy
+
+- Make a YAML file that describes the structure of each file
+- What's the hierarchy?
+- What's the cell range of the data?

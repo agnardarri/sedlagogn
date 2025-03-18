@@ -1,0 +1,104 @@
+{
+    "GRM": {
+        "is": "Greiðslumiðlun",
+        "en": "payment_intermediation",
+        "data": {
+            "timaradir": {
+                "is": "Tímaraðir",
+                "en": "time_series",
+                "config": {}
+            }
+        }
+    },
+    "GM": {
+        "is": "Gjaldeyrismarkaður",
+        "en": "foreign_exchange_market",
+        "data": {
+            "dagleg_velta": {
+                "is": "Dagleg velta",
+                "en": "daily_turnover",
+                "config": {}
+            },
+            "manadargogn": {
+                "is": "Mánaðargögn",
+                "en": "monthly_data",
+                "config": {}
+            }
+        }
+    },
+    "RG": {
+        "is": "Raungengi",
+        "en": "real_exchange_rate",
+        "data": {
+            "arslokatala": {
+                "is": "Árslokatölur",
+                "en": "year_end_figures",
+                "config": {}
+            },
+            "arsfjordungur": {
+                "is": "Ársfjórðungur",
+                "en": "quarterly_data",
+                "config": {}
+            },
+            "manudur": {
+                "is": "Mánuður",
+                "en": "monthly_data",
+                "config": {}
+            }
+        }
+    },
+    "KRM": {
+        "is": "Krónumarkaður",
+        "en": "krona_market",
+        "data": {
+            "velta": {
+                "is": "Velta á krónumarkaði",
+                "en": "turnover_on_krona_market",
+                "config": {}
+            }
+        }
+    },
+    "financial_accounts": {
+        "is": "Fjármálareikningar fjármálafyrirtækja",
+        "en": "financial_accounts_of_financial_institutions",
+        "data": {
+            "fjarmalafyrirtaeki": {
+                "is": "Fjármálareikningar fyrir fjármálafyrirtæki",
+                "en": "financial_accounts_for_financial_institutions",
+                "config": {}
+            },
+            "skuldir_heimila": {
+                "is": "Skuldir heimila við fjármálafyrirtæki",
+                "en": "household_debt_to_financial_institutions",
+                "config": {}
+            },
+            "skuldir_fyrirtaekja": {
+                "is": "Skuldir fyrirtækja við fjármálafyrirtæki",
+                "en": "corporate_debt_to_financial_institutions",
+                "config": {}
+            }
+        }
+    },
+    "market_securities": {
+        "is": "Staða markaðsverðbréfa",
+        "en": "status_of_market_securities",
+        "data": {
+            "stada": {
+                "is": "Staða",
+                "en": "status",
+                "config": {}
+            }
+        }
+    },
+    "securities_offerings": {
+        "is": "Útboð verðbréfa",
+        "en": "securities_offerings",
+        "data": {
+            "skuldabref_vixlar": {
+                "is": "Útboð skuldabréfa og víxla",
+                "en": "bond_and_bill_offerings",
+                "config": {}
+            }
+        }
+    }
+} 

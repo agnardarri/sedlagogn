@@ -1,0 +1,80 @@
+{
+  "categories": {
+    "Fjármálafyrirtæki": "financial_institutions",
+    "Fjármálareikningar og markaðir": "financial_accounts_and_markets",
+    "Greiðslujöfnuður og erlend staða þjóðarbúsins": "balance_of_payments_and_international_investment_position"
+  },
+  "subcategories": {
+    "Tryggingafélög": "insurance_companies",
+    "Efnahagur Seðlabanka Íslands": "central_bank_balance_sheet",
+    "Lífeyrissjóðir": "pension_funds",
+    "Önnur fjármálafyrirtæki": "other_financial_institutions",
+    "Lánasjóðir ríkisins": "government_credit_funds",
+    "Verðbréfa-, fjárfestingar- og fagfjárfestasjóðir": "securities_investment_and_professional_investment_funds",
+    "Bankakerfi": "banking_system",
+
+    "Greiðslumiðlun": "payment_intermediation",
+    "Gjaldeyrismarkaður": "foreign_exchange_market",
+    "Raungengi": "real_exchange_rate",
+    "Krónumarkaður": "krona_market",
+    "Fjármálareikningar fjármálafyrirtækja": "financial_accounts_of_financial_institutions",
+    "Staða markaðsverðbréfa": "status_of_market_securities",
+    "Útboð verðbréfa": "securities_offerings",
+
+    "Gjaldeyrisforði og tengdir liðir": "foreign_exchange_reserves_and_related_items",
+    "Erlend staða Seðlabankans": "foreign_position_of_central_bank",
+    "Erlendar skuldir": "foreign_debt",
+    "Erlend staða þjóðarbúsins": "international_investment_position",
+    "Greiðslujöfnuður við útlönd": "balance_of_payments",
+    "Verðbréfafjárfesting": "securities_investment",
+    "Bein fjárfesting": "direct_investment"
+  },
+  "data_types": {
+    "Tímaraðir": "time_series",
+    "Markaðsskuldabréf eftir geirum": "market_bonds_by_sector",
+    "Markaðsskuldabréf eftir tegund": "market_bonds_by_type",
+    "Útlán eftir geirum": "loans_by_sector",
+    "Útlán eftir tegund": "loans_by_type",
+    "Hlutabréf eftir geirum": "stocks_by_sector",
+    "Efnahagur": "balance_sheet",
+    "Ný útlán": "new_loans",
+    "Útlán": "loans",
+    "Innlán": "deposits",
+    "Hlutabréf": "stocks",
+    "Markaðsskuldabréf": "market_bonds",
+    "Lántökur": "borrowings",
+    "Afleiður": "derivatives",
+    "Peningamagn": "money_supply",
+    "Reikningar bankakerfis": "banking_system_accounts",
+    
+    "Dagleg velta": "daily_turnover",
+    "Mánaðargögn": "monthly_data",
+    "Árslokatölur": "year_end_figures",
+    "Ársfjórðungur": "quarterly_data",
+    "Velta á krónumarkaði": "turnover_on_krona_market",
+    "Staða": "status",
+    "Skuldir": "debts",
+    
+    "Gjaldeyrisforði": "foreign_exchange_reserves",
+    "Fastar nettóútgreiðslur gjaldeyriseigna": "fixed_net_payments_of_foreign_exchange_assets",
+    "Mögulegar nettóútgreiðslur": "potential_net_payments",
+    "Viðbótarupplýsingar": "additional_information",
+    "Bein erlend fjárfesting": "direct_foreign_investment",
+    "Greiðslujöfnuður": "balance_of_payments",
+    "Fjárfesting": "investment"
+  },
+  "file_prefixes": {
+    "TRY": "insurance_companies",
+    "SED": "central_bank",
+    "LIF": "pension_funds",
+    "YFT": "other_financial_institutions",
+    "LSJ": "government_credit_funds",
+    "VFF": "investment_funds",
+    "INN": "banking_system",
+    "GRM": "payment_intermediation",
+    "GM": "foreign_exchange_market",
+    "RG": "real_exchange_rate",
+    "KRM": "krona_market",
+    "FORÐI": "foreign_exchange_reserves"
+  }
+} 
